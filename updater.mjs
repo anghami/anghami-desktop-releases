@@ -21,7 +21,7 @@ async function resolveUpdater() {
   });
 
   // get the latest publish tag
-  const tag = tags.find((t) => t.name.startsWith('anghami-desktop-app-v'));
+  const tag = tags.find((t) => t.name.startsWith('v'));
 
   console.log(tag);
   console.log();
