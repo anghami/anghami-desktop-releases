@@ -32,7 +32,7 @@ async function resolveUpdater() {
   });
 
   const updateData = {
-    name: tag.name,
+    version: tag.name,
     notes: 'TODO',
     pub_date: new Date().toISOString(),
     platforms: {
