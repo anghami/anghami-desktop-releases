@@ -1,5 +1,6 @@
 import fetch from 'node-fetch';
 import { getOctokit, context } from '@actions/github';
+import { resolveUpdateLog } from './updatelog.mjs';
 
 const UPDATE_TAG_NAME = 'anghami-desktop-updater';
 const UPDATE_JSON_FILE = 'update.json';
@@ -33,7 +34,7 @@ async function resolveUpdater() {
 
   const updateData = {
     version: tag.name,
-    notes: 'TODO',
+    notes: await resolveUpdateLog(tag.name),
     pub_date: new Date().toISOString(),
     platforms: {
       win64: { signature: '', url: '' }, // compatible with older formats
