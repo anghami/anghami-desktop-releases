@@ -1,3 +1,17 @@
+## v0.2.5
+
+### Features
+
+- support macos universal build
+
+### Bug Fixes
+
+- disable global shortcuts
+- throttle downloading progress event metrics
+- switch app windows parent app 
+
+---
+
 ## v0.2.4
 
 ### Features
