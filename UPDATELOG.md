@@ -1,3 +1,18 @@
+## v0.2.6
+
+### Features
+
+- use remote window for player window
+- change offline logic
+
+### Bug Fixes
+
+- make splash screen in a main config
+- add init_saved_user command
+- remove save window state plugin
+
+---
+
 ## v0.2.5
 
 ### Features
