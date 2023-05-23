@@ -1,3 +1,28 @@
+## v0.2.7
+
+### Features
+
+- enhanced offline mode
+- support cover art download in offline mode
+- add song download retry logic
+- add devtools easter egg to miniplayer
+
+### Bug Fixes
+
+- fixed miniplayer window events in windows
+- refactor miniplayer window logic
+- fixed exit mode in windows
+
+---
+
+## v0.2.7
+
+### Features
+
+### Bug Fixes
+
+---
+
 ## v0.2.6
 
 ### Features
