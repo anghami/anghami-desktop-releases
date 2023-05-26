@@ -10,6 +10,8 @@
 - remove extra } in songs names
 - open ads links in browser
 
+---
+
 ## v0.2.8
 
 ### Features
