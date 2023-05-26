@@ -1,3 +1,15 @@
+## v0.2.9
+
+### Features
+
+### Bug Fixes
+
+- fixed issue when player does not player one song in the download list
+- fixed offline redirection
+- reload window on user change
+- remove extra } in songs names
+- open ads links in browser
+
 ## v0.2.8
 
 ### Features
