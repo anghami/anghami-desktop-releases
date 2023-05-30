@@ -9,7 +9,7 @@
 - reload window on user change
 - remove extra } in songs names
 - open ads links in browser
-
+- fixed offline app in old macos
 ---
 
 ## v0.2.8
