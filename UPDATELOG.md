@@ -12,6 +12,8 @@
 - fixed remote play queue syncing with other connected devices
 - fixed mini player icon in the player component
 - fixed missing cover arts from the old desktop app
+- added logic to redownload songs with deleted file in the fs
+- fixed sidecar db instance
 
 ---
 
