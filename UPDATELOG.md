@@ -1,3 +1,20 @@
+## v0.2.13
+
+### Features
+- sync play queue with other devices on window focus 
+
+### Bug Fixes
+
+- enhanced downloading logic, and download queue logic fixes
+- fixed keyboard shortcuts for play/pause and next/previous
+- fixed blurry tray icon on MacOS
+- fixed cut, copy and paste shortcuts in MacOS
+- fixed remote play queue syncing with other connected devices
+- fixed mini player icon in the player component
+- fixed missing cover arts from the old desktop app
+
+---
+
 ## v0.2.9
 
 ### Features
