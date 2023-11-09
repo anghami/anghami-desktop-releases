@@ -1,3 +1,15 @@
+## v0.2.14
+
+### Features
+- retry getting main page or fallback to offline
+
+### Bug Fixes
+
+- enhance logs for internal app code 
+- fix remote sync logic
+
+---
+
 ## v0.2.13
 
 ### Features
