@@ -1,7 +1,9 @@
 ## v0.2.14
 
 ### Features
+
 - retry getting main page or fallback to offline
+- refactor verbose logger logic
 
 ### Bug Fixes
 
