@@ -1,3 +1,11 @@
+## v0.2.15
+
+### Bug Fixes
+
+- fix auto update logic
+
+---
+
 ## v0.2.14
 
 ### Features
